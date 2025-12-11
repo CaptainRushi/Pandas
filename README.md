@@ -1,6 +1,6 @@
 ---
 
-# 📊 Pandas – Full Documentation (GitHub Style)
+# 📊 Pandas – Full Documentation 
 
 Pandas is a powerful, open-source Python library designed for high-performance data manipulation and analysis. It offers intuitive data structures, robust tools, and integration with the Python scientific ecosystem, making it a standard for data workflows.
 
