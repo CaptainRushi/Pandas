@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b73d6f0-4f22-416d-96d2-6f86688376f3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pandas-series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pandas-series.ipynb" afterDir="false" />
+    <list default="true" id="8b73d6f0-4f22-416d-96d2-6f86688376f3" name="Changes" comment="ser">
+      <change afterPath="$PROJECT_DIR$/book.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas-aggregation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas-datacleaning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas-filteriing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas-importing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas-selection.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +30,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "CaptainRushi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CaptainRushi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CaptainRushi/Pandas.git",
-    "accountId": "3317d7d2-a107-4e5f-aa8c-a9c95197682d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CaptainRushi/Pandas.git&quot;,
+    &quot;accountId&quot;: &quot;3317d7d2-a107-4e5f-aa8c-a9c95197682d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="36gklKuzvnpbMmJ8UvoZHD9y7li" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,15 +53,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rushi/PycharmProjects/JupyterProject&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rushi\PycharmProjects\JupyterProject" />
+      <recent name="C:\Users\rushi\PycharmProjects\JupyterProject\.venv" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
